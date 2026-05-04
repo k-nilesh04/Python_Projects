@@ -1,6 +1,5 @@
 import requests
 import json
-from functools import cache as c
 
 API_KEY = 'API_KEY'
 
